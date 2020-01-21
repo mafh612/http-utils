@@ -1,4 +1,4 @@
-# POC - Stupido with NextJS
+# http_util
 
 ## TODO
 - Unified RestClient
