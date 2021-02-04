@@ -1,6 +1,6 @@
 {
   "name": "http-enums",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "HTTP status, methods, headers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,5 +20,8 @@
   "devDependencies": {
     "tslint": "^5.20.1",
     "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "http-enums": "^1.0.3"
   }
 }
